@@ -1,11 +1,5 @@
 ## Workshop: Fundamentals of High Performance Computing on Blanca
 
-### Date:
-Wednesday, 18 August 2021, 9:00a-11:00a.
-
-### Location:
-This course will be conducted remotely via Zoom. The Zoom URL will be sent to participants before the course begins.
-
 ### Instructor
 Andrew Monaghan, Research Computing, University of Colorado
 
@@ -30,6 +24,6 @@ Contact andrew.monaghan@colorado.edu if you have questions.
 ### Course Materials:
 Slides will be posted at this URL before the course begins.
 
-https://github.com/ResearchComputing/APPM_HPC_Fall_2021
+https://github.com/ResearchComputing/APPM_HPC
 
-(from command line: `git clone https://github.com/ResearchComputing/APPM_HPC_Fall_2021`)
+(from command line: `git clone https://github.com/ResearchComputing/APPM_HPC`)
