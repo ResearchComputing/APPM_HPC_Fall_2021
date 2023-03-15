@@ -4,13 +4,13 @@
 Andrew Monaghan, Research Computing, University of Colorado
 
 ### Description:
-This tutorial will introduce you to the [Blanca](https://curc.readthedocs.io/en/latest/access/blanca.html) "condo" compute cluster at CU, which is managed by [CU Research Computing](https://www.colorado.edu/rc/) (RC). The [Department of Applied Mathematics](https://www.colorado.edu/amath/) (APPM) has contributed four nodes to Blanca that can be used for computational work by APPM students, staff and faculty. In addition to an overview of Blanca, we will cover the fundamentals needed to begin using the system: basic [Linux/Unix commands](http://www.ee.surrey.ac.uk/Teaching/Unix/), [logging into RC](https://curc.readthedocs.io/en/latest/access/logging-in.html) from a terminal, [software modules](https://curc.readthedocs.io/en/latest/compute/modules.html), and [submitting jobs on Blanca](https://curc.readthedocs.io/en/latest/access/blanca.html#examples).
+This 2-part tutorial will introduce you to [CU Research Computing](https://www.colorado.edu/rc) and specifically to the [Blanca](https://curc.readthedocs.io/en/latest/access/blanca.html) "condo" compute cluster at CU, which is managed by [CU Research Computing](https://www.colorado.edu/rc/) (RC). The [Department of Applied Mathematics](https://www.colorado.edu/amath/) (APPM) has contributed four nodes to Blanca that can be used for computational work by APPM students, staff and faculty. In addition to an overview of Blanca, we will cover the fundamentals needed to begin using the system: basic [Linux/Unix commands](http://www.ee.surrey.ac.uk/Teaching/Unix/), [logging into RC](https://curc.readthedocs.io/en/latest/access/logging-in.html) from a terminal, [software modules](https://curc.readthedocs.io/en/latest/compute/modules.html), and [submitting jobs on Blanca](https://curc.readthedocs.io/en/latest/access/blanca.html#examples).
 
-### Prerequisites:
+### Prerequisites for Part 2:
 
 1) Sign up for a [Research Computing account](https://rcamp.rc.colorado.edu/accounts/account-request/create/verify/ucb).  _(Note: when responding to the question "Why are you requesting an account?", you can select the final option, "My research group has purchased condo nodes")._
 
-__PLEASE SIGN UP FOR YOUR ACCOUNT IN ADVANCE OF THE WORKSHOP!__
+__PLEASE SIGN UP FOR YOUR ACCOUNT IN ADVANCE OF PART 2!__
 
 2) Send an email requesting to be added to the blanca-appm partition to rc-help@colorado.edu and carbon copy am_itsup@colorado.edu.
 
